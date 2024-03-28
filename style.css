@@ -1,0 +1,203 @@
+body{
+    background: url("bacack.jpg") no-repeat center center/cover;
+    height: 50vh;
+    width: 100vw;
+}
+
+img{
+    width: 480px;
+    height: 400px;
+    /* margin-left: 7px; */
+    /* transition: all 0.6s ease-in-out; */
+    padding: 0px 5px;
+}
+
+a img{
+    transition: all 0.5s ease-in-out;
+}
+
+a img:hover{
+    transform: scale(1.1);
+}
+
+.navbar{
+    display: flex;
+    width: 100%;
+    /* height: 100px; */
+}
+
+/* #title{
+    width: 20%;
+    /* border: 2px solid green;
+    height: 100px;
+    margin: 0%;
+    font-size: 60px;
+    text-align: center;
+    line-height: 90px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: all 0.3s ease-in-out;
+    color:rgb(188, 92, 23);
+} */
+
+/* #title:hover{
+    transform: scale(1.3);
+    color:darkgoldenrod;
+} */
+
+/* nav ul{
+    display: flex;
+    width: 58%;
+    height: 100px;
+    margin: 0%;
+    line-height: 90px;
+}
+
+#search{
+    height: 20px;
+    width: 200px;
+    position: relative;
+    top: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    border-color: black;
+    padding: 2px 4px;
+}
+
+li{
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+li a:hover{
+    text-decoration: underline;
+    color: orangered;
+} */
+
+#navv1{
+    position: relative;
+    left: 200px;
+}
+
+#navv2{
+    position: relative;
+    left: 275px;
+}
+
+
+#navv4{
+    position: relative;
+    left: 350px;
+} */
+
+#iam{
+    margin-top: 600px;
+    /* border: 2px solid red; */
+}
+
+.im{
+    display: flex;
+    width: 100vw;
+    margin-left: 5px;
+}
+
+.image{
+    margin-left: -30px;
+}
+
+#choose{
+    /* border: 2px solid red; */
+    text-align: center;
+    height: 230px;
+    background-color:rgb(221, 239, 190) ;
+    background: url("https://images.unsplash.com/photo-1557682250-33bd709cbe85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGNvbG9yJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60") no-repeat center center/cover;
+    box-shadow: 7px 7px 5px black;
+    width: 98%;
+    margin-top: -12px;
+    font-size: 20px;
+}
+
+#name{
+    margin-top: 10px;
+}
+
+#car1{
+    margin-top: 20px;
+}
+
+#car2{
+    margin-top: 20px;
+}
+
+#car3{
+    margin-top: 20px;
+}
+
+#btn{
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+#btn{
+    border-radius: 9px;
+}
+
+footer{
+    /* border: 2px solid blue; */
+    margin-top: 12px;
+    color: white;
+    background-color: rgb(46, 42, 42);
+    text-align: center;
+    display: flex;
+    height: 180px;
+    width: 98.5%;
+}
+
+.social2{
+    height: 50px;
+    width: 80px;
+    position: relative;
+    top: 60px;
+}
+
+#social{
+    text-align: center;
+    line-height: 60px;
+    width: 33%;
+}
+
+#aa1{
+    margin-left: 13px;
+}
+
+
+#btn:hover{
+    color:goldenrod;
+    background-color:darkgreen;
+}
+
+#nam{
+    width: 33%;
+    text-align: center;
+    line-height: 50px;
+}
+
+#info{
+    width: 33%;
+    text-align: center;
+    line-height: 35px;
+}
+
+#za{
+    color: white;
+    background-color: black;
+    height: 50px;
+    margin-top: -16px;
+    text-align: center;
+    line-height: 50px;
+}

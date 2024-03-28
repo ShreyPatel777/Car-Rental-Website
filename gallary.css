@@ -1,0 +1,35 @@
+img{
+    height: 300px;
+    width: 400px;
+    border-radius: 11px;
+}
+
+.product{
+    /* border: 2px solid black; */
+    height: 400px;
+    margin-top: 20px;
+    border-radius: 11px;
+    display: flex;
+    width: 100%;
+    background-color: rgb(205, 205, 212);
+    box-shadow: 8px 8px 10px black;
+}
+
+a{
+    width: 50%;
+    position: relative;
+    top: 50px;
+    left: 180px;
+}
+
+p{
+    width: 50%;
+    text-align: center;
+    line-height: 220px;
+    font-size: 70px;
+}
+
+#product2 img{
+    position:relative;
+    left: 100px;
+}
